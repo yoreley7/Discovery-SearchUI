@@ -1,6 +1,6 @@
 phrase:
   host: https://api.us.app.phrase.com/v2
-  access_token: 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
+  access_token: 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
   project_id: a1f4202162d6aef2fcf9c83d4ff56672
   push:
     sources:
